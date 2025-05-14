@@ -9,6 +9,6 @@ Minecraft Education Акаунт Bypass для Windows, используется
 -  
 **Видео туториал:**
 
-[Смотреть видео](tuta.mp4)
+[Смотреть видео](https://drive.google.com/file/d/1qRXKSkG3rbaJJa0IanPECVXUuA2qL9uT/view?usp=drive_link)
 ### for educational purposes only / только для образовательных целей
 ### and for non-commercial use   / и для некомерчиского использования
