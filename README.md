@@ -1,6 +1,6 @@
 # MCEE LOGIN BYPASS         
 
-Лучшая версия Minecraft для изучения програмирования
+Лучший BYPASS для Minecraft Education
 
 Инструкция:
 1. Скачайте последний релиз
