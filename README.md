@@ -6,7 +6,7 @@ Minecraft Education Акаунт Bypass для Windows, используется
 -  Скачайте последний релиз
 -  Распокуйте
 -  Следуйте инструкциям в файле ReadMe.txt
--  
+  
 **Видео туториал:**
 
 [Смотреть видео](https://drive.google.com/file/d/1qRXKSkG3rbaJJa0IanPECVXUuA2qL9uT/view?usp=drive_link)
