@@ -1,11 +1,11 @@
 # MCEE LOGIN BYPASS         
-
-Лучший BYPASS для Minecraft Education
+<img src="https://github.com/Cats-coding-batch/MCEE/blob/main/logo.png" width=100%/>
+Minecraft Education Акаунт Bypass для Windows, используется метод замены памяти приложения!
 
 Инструкция:
-1. Скачайте последний релиз
-2. Распокуйте
-3. Следуйте инструкциям в файле ReadMe.txt
+-  Скачайте последний релиз
+-  Распокуйте
+-  Следуйте инструкциям в файле ReadMe.txt
 
 ### for educational purposes only / только для образовательных целей
 ### and for non-commercial use   / и для некомерчиского использования
