@@ -42,6 +42,6 @@ if exist "%indicator_file%" (
 	echo Пожалуйста, запустите игру и попробуйте еще раз.
 	echo.
 ) 
-echo Закрытие через 5 секунды!
+echo Закрытие через 5 секунд!
 >nul timeout/nobreak 5
 
